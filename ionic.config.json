@@ -1,0 +1,8 @@
+{
+  "name": "SGPrueba",
+  "app_id": "4379153a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
